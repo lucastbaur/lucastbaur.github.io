@@ -8,3 +8,9 @@ Tenho interesse nas seguintes áreas:
 - JS
 - Node
 - Python
+
+## Pessoal
+
+### Pai de pet 
+
+![cachorro abanando o rabo](https://giphy.com/gifs/ufc-come-on-please-stop-dana-white-UAkCiMncvaFhDEXmts)
